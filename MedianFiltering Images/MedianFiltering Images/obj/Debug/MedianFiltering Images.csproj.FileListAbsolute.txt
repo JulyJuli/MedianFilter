@@ -1,0 +1,10 @@
+c:\users\juli\source\repos\MedianFiltering Images\MedianFiltering Images\bin\Debug\MedianFiltering Images.exe.config
+c:\users\juli\source\repos\MedianFiltering Images\MedianFiltering Images\bin\Debug\MedianFiltering Images.exe
+c:\users\juli\source\repos\MedianFiltering Images\MedianFiltering Images\bin\Debug\MedianFiltering Images.pdb
+c:\users\juli\source\repos\MedianFiltering Images\MedianFiltering Images\obj\Debug\MedianFiltering Images.csprojResolveAssemblyReference.cache
+c:\users\juli\source\repos\MedianFiltering Images\MedianFiltering Images\obj\Debug\MedianFiltering_Images.Properties.Resources.resources
+c:\users\juli\source\repos\MedianFiltering Images\MedianFiltering Images\obj\Debug\MedianFiltering Images.csproj.GenerateResource.Cache
+c:\users\juli\source\repos\MedianFiltering Images\MedianFiltering Images\obj\Debug\MedianFiltering Images.csproj.CoreCompileInputs.cache
+c:\users\juli\source\repos\MedianFiltering Images\MedianFiltering Images\obj\Debug\MedianFiltering Images.exe
+c:\users\juli\source\repos\MedianFiltering Images\MedianFiltering Images\obj\Debug\MedianFiltering Images.pdb
+c:\users\juli\source\repos\MedianFiltering Images\MedianFiltering Images\obj\Debug\MedianFiltering_Images.FilteringForm.resources
